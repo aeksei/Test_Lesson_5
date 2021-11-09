@@ -1,0 +1,3 @@
+JSON_INDENT = 4
+
+QUERY_DATE = "%d/%m/%Y"
